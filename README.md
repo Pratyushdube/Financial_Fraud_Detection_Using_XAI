@@ -11,7 +11,7 @@ I utilized the Kaggle Credit Card Fraud Detection Dataset to develop and evaluat
 This transaction dataset we utilized consists of anonymized transactions of US consumers over the course of 1 year (2019 to 2020). The dataset is challenging for realistic settings as there is an extreme class imbalance with only 0.52% of total samples classed as fraudulent.
 
 # Dataset	Description
-Total Samples:	3,39,607 
+Total Samples:	3,39,607
 Legitimate Transactions:	3,37,825 (99.47%)
 Fraudulent Transactions:	1782 (0.52%)
 Features:	15
