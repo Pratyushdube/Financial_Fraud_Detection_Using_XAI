@@ -12,12 +12,19 @@ This transaction dataset we utilized consists of anonymized transactions of US c
 
 # Dataset	Description
 Total Samples:	3,39,607
+
 Legitimate Transactions:	3,37,825 (99.47%)
+
 Fraudulent Transactions:	1782 (0.52%)
+
 Features:	15
+
 Label	Class: (0 = Legitimate, 1 = Fraud)
+
 Feature Type:	Numeric (PCA transformed except Time and Amount)
+
 Time Period:	365 days
+
 Imbalance Ratio:	~1:190
 
 
